@@ -4,6 +4,7 @@ import pandas as pd
 import joblib
 import plotly.express as px
 from PIL import Image
+from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
 # from imblearn 
 
